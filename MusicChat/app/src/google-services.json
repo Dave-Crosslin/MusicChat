@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103705260994",
+    "firebase_url": "https://musicchat-c1d2e.firebaseio.com",
+    "project_id": "musicchat-c1d2e",
+    "storage_bucket": "musicchat-c1d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103705260994:android:dff0213548dcd47e",
+        "android_client_info": {
+          "package_name": "com.example.musicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103705260994-6ffd9bog790uj5usgubh8p6ia6bkje51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicchat",
+            "certificate_hash": "9af0943ec1a4df90a07565d2758ac1c104357b88"
+          }
+        },
+        {
+          "client_id": "103705260994-tnusefdgu7re5ht2fsr70dodl7n40ig7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTlsqOPSRBV5RF_8KuifvS-i9IQlB14k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103705260994-tnusefdgu7re5ht2fsr70dodl7n40ig7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
